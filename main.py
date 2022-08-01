@@ -1,3 +1,4 @@
+!whyrangger/bin/env phyton 3
 Task : Tugas 1
 TODG : Wahyu Amijoyo
 
