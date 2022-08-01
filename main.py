@@ -6,11 +6,11 @@
 #TODO : Task Isi variabel name dengan nama kamu
 
 #FIXME :
-name =
+name = 'Alief Ramadhan'
 
 #TODO : Lalu cetak lah tulisan 'Halo nama aku (nama_kamu) menggunakan format string'
 #NOTE : Untuk nama kamu tidak perlu pakai tanda kurung
-
+print('Halo nama aku {0}'.format(name))
 
 #TASK : Tugas 2
 #TODO : buatlah program menghitung luas bangun datar dengan syarat.
@@ -20,6 +20,10 @@ name =
 # 4. lalu cetak hasil perhitungannya
 #NOTE : Jika tidak tahu rumus luas bangun datar bisa googling aja ya.
 
+alas = 12.3
+tinggi = 7.5
 
+luas = alas * tinggi
+print(luas)
 
 # <Happy Weekend/>
